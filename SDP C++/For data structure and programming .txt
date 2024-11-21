@@ -1,0 +1,23 @@
+For data structure and programming 2, we have 16 weeks
+
+Week 1 : review, c++ , (convert c to c++) { learn the c++ syntax}
+Week 2 : Recursive C++
+Week 3 : Pointer (group team-up)
+
+Data structure (Linear)
+
+Week 4 : LL (linked-list)
+Week 5 : LL 
+Week 6 : Queue and stack
+Week 7 : Queue and stack
+Week 8 : Midterm (We might have group (3 ppl) project)
+Week 9 : GUI
+
+Data structure (non-linear)
+
+Week 10 : tree data structure
+Week 11 : OOP
+Week 12 : OOP
+Week 13 : Database (mySQL)
+Week 14 : Database (mySQL)
+Week 15 : Database (mySQL)
